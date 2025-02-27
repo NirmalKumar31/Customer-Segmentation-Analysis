@@ -114,5 +114,5 @@ RFM Analysis is a customer segmentation technique that groups customers based on
    - 📊 **Identified high-margin products for targeted promotions.**  
 
 ---
-🔗 [**Project Report**] (https://github.com/NirmalKumar31/Customer-Segmentation-Analysis/blob/3aee7b83a98dbe72f25a76b88ecf2ec3ab582fbe/Customer%20Segmentation%20Analysis%20-%20Project%20Report.pdf)  
-🔗 [**Code File**] (https://github.com/NirmalKumar31/Customer-Segmentation-Analysis/blob/3aee7b83a98dbe72f25a76b88ecf2ec3ab582fbe/Customer%20Segmentation%20Analysis.ipynb)  
+🔗 [**Project Report**](https://github.com/NirmalKumar31/Customer-Segmentation-Analysis/blob/3aee7b83a98dbe72f25a76b88ecf2ec3ab582fbe/Customer%20Segmentation%20Analysis%20-%20Project%20Report.pdf)  
+🔗 [**Code File**](https://github.com/NirmalKumar31/Customer-Segmentation-Analysis/blob/3aee7b83a98dbe72f25a76b88ecf2ec3ab582fbe/Customer%20Segmentation%20Analysis.ipynb)  
